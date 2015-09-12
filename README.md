@@ -1,4 +1,4 @@
-# CPS209.Assignment-1
+# CPS209: Assignment 1
 First assignment done in the course CPS209 - Computer Science II
 
 This assignment is a wrap up of the core concepts of object orientated design and coded with Java.
